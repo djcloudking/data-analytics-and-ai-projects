@@ -2,6 +2,7 @@ Welcome to my **Data Analytics & AI Certificate** repository. This space showcas
 
 These projects will equip me with the foundational tools and real-world experience to break into the field.
 
+
 ### 🔧 What I’m Learning
 
 #### ✅ Python Programming & Data Handling
@@ -24,26 +25,10 @@ These projects will equip me with the foundational tools and real-world experien
 * Communicating insights effectively through data storytelling
 
 
-### 📁 Repository Structure
-
-```
-data-analytics-ai-certificate/
-│
-├── python-fundamentals/           # Core Python scripts and exercises
-├── sql-projects/                  # SQL queries and database projects
-├── data-cleaning/                 # Data prep and wrangling projects
-├── machine-learning/              # ML models, notebooks, and evaluations
-├── dashboards-visualizations/     # Plotting projects and dashboards
-├── project-notebooks/             # End-to-end Jupyter notebooks
-├── README.md                      # You’re here!
-```
- 
-
 ### 🎓 Real-World Projects & Mentorship
 
 Each project in this repo is designed to simulate real business problems—whether it’s predicting outcomes, analyzing trends, or building tools to support decision-making. I’ve also received mentoring and feedback throughout this program to strengthen both technical skills and job-readiness.
 
- 
 
 ### 🚀 Goals
 
