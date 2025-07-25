@@ -1,9 +1,16 @@
-Welcome to my **Data Analytics & AI Certificate** repository. This space showcases my hands-on projects and learning journey as I build the skills required for entry-level roles in **data science** and **Python engineering**.
+# **Data Analytics, ML & AI Projects**
 
-These projects will equip me with the foundational tools and real-world experience to break into the field.
+
+This repository showcases my hands-on projects and learning journey as I build the skills required for **Data Analytics, ML & AI Certificate**.
+
+These projects will equip me with the foundational tools and real-world experience of **Data Analytics, Machine Learning & Artificial Intelligence** field.
 
 
 ### 🔧 What I’m Learning
+
+#### ✅ SQL (& PostgreSQL)
+
+
 
 #### ✅ Python Programming & Data Handling
 
