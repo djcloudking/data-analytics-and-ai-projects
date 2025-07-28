@@ -1,3 +1,53 @@
+-- LIKE and Wildcards
+
+-- Filter with wildcard: 
+    SELECT name, user_city FROM users
+    WHERE user_city LIKE '%port%';
+
+
+--  Case sensitivity in PostgreSQL:
+    LIKE is case sensitive
+    ILIKE is case insensitive
+    SELECT name, user_city FROM users
+    WHERE user_city ILIKE '%port%';
+
+
+--  Case sensitivity in SQL Server:
+--  SQL Server is case insensitive by default.
+--  Case sensitivity is defined by the column, not the SQL statement.
+
+-- Check a table's case sensitivity for all columns:
+
+SELECT table_name, column_name, collation_name
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE table_name = 'users'; --put your table name in the single quotes
+
+SQL Server case sensitive query:
+
+SELECT name, user_city FROM users
+WHERE user_city LIKE '%port%' COLLATE SQL_Latin1_General_CP1_CS_AS;
+
+
+--  Filter using AND:
+In PostgreSQL:
+SELECT * FROM products
+WHERE title ILIKE '%paper%' AND price > 30;
+
+In SQL Server:
+SELECT * FROM products
+WHERE title LIKE '%paper%' AND price > 30;
+
+
+--  Filter using OR:
+SELECT * FROM orders
+WHERE ship_state = 'FL' OR ship_zipcode = '17408';
+
+
+--  Filter using NOT: 
+SELECT * FROM products
+WHERE NOT tags = 'emerald';
+
+
 --------------------------------------------------------
 -- EXERCISES: Answer using the techniques from above.
 --------------------------------------------------------
