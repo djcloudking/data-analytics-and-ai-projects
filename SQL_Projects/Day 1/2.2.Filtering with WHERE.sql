@@ -1,3 +1,36 @@
+
+-- 
+-- Filtering with WHERE
+
+
+-- Filter by exact value:
+    SELECT * FROM products
+    WHERE price = 31.98;
+
+-- Filter with less-than:
+    SELECT * FROM products
+    WHERE price < 31.98;
+
+
+-- Filter with a range (using BETWEEN): 
+    SELECT * FROM products
+    WHERE price BETWEEN 28.87 AND 44.93;
+
+
+--   4. Filter with multiple conditions (using OR): 
+SELECT * FROM products
+WHERE price = 31.98
+OR price= 28.87;
+
+
+-- 5. Filter with set of values (using IN): 
+-- Does the same thing as the previous OR statement, but with less code.
+SELECT * FROM products
+WHERE price IN (31.98, 28.87);
+
+
+
+
 --------------------------------------------------------
 -- EXERCISES: Answer using the techniques from above.
 --------------------------------------------------------
