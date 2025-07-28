@@ -10,6 +10,9 @@ These projects will equip me with the foundational tools and real-world experien
 
 #### ✅ SQL (& PostgreSQL)
 
+* Introduced to SQL (Structured Query Language) and fundamentals of working with databases.
+* Explained the importance of databases across various industries and highlights SQL’s role in data management.
+* Included practical examples using SQL queries to help beginners understand how databases operate. 
 
 
 #### ✅ Python Programming & Data Handling
