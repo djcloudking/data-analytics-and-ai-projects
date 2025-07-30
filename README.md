@@ -8,32 +8,17 @@ These projects will equip me with the foundational tools and real-world experien
 
 ### 🔧 What I’m Learning
 
-#### ✅ SQL (& PostgreSQL)
+#### SQL (& PostgreSQL)
 
-* Introduced to SQL (Structured Query Language) and fundamentals of working with databases.
-* Explained the importance of databases across various industries and highlights SQL’s role in data management.
-* Included practical examples using SQL queries to help beginners understand how databases operate. 
+#### Python for Data Science Bootcamp
 
+#### Python for Machine Learning Foundations
 
-#### ✅ Python Programming & Data Handling
+#### Python Data Visualization & Dashboardss
 
-* Mastering Python fundamentals for data work
-* Using libraries like **Pandas**, **NumPy**, and **Regular Expressions** to clean, aggregate, and transform data
-* Writing complex **SQL** queries to interact with databases
-* Automating repetitive data tasks using Python scripts
+#### Python for Automation
 
-#### ✅ Machine Learning Foundations
-
-* Cleaning, encoding, and balancing data for modeling
-* Building and training models using **scikit-learn**
-* Evaluating model performance and iterating for improvements
-
-#### ✅ Data Visualization & Dashboards
-
-* Creating charts and plots using **Matplotlib**, **Seaborn**, and **Plotly**
-* Building interactive dashboards with **Dash**
-* Communicating insights effectively through data storytelling
-
+#### AI for Python
 
 ### 🎓 Real-World Projects & Mentorship
 
@@ -44,7 +29,6 @@ Each project in this repo is designed to simulate real business problems—wheth
 
 * Build a strong portfolio to showcase my skills to employers
 * Gain confidence using Python, SQL, AI and ML tools in real-world scenarios
-* Transition into a **data analyst**, **data scientist**, or **Python engineer** role
 
 
 ### 🔗 Let’s Connect
